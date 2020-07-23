@@ -1,0 +1,13 @@
+.item {
+  position: relative;
+  /* background-color: rgb(66, 66, 66) !important;
+  color: white !important; */
+}
+
+.image {
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}

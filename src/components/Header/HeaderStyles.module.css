@@ -1,0 +1,19 @@
+.header {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 10px 0 25px 0;
+}
+.toggle {
+  margin: 12px 5px 6px 0 !important;
+}
+
+.amountSelect {
+  width: 80px;
+  margin-left: 14px !important;
+}
+.currencySelect {
+  width: 120px;
+  margin-left: 14px !important;
+}
