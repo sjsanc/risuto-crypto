@@ -1,7 +1,10 @@
-# TODO
+## Risuto・リスト
 
-1. Figure out types for handleQueryChange
-2. Implement debounce + infinite scroll
+A cryptodashboard showing a neat little graphic for the top 100 cryptocurrencies by current price. 
 
-https://stackoverflow.com/questions/63040087/react-typescript-error-types-of-parameters-event-and-event-are-incompatib
-https://github.com/karlhadwen/newsreader/tree/master/src
+Made with Chart.js, Material-UI & React. 
+
+WIP: 
+> Further Typescript implementation
+> Working infinite scroll mode
+> Rearrangeable data
